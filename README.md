@@ -22,9 +22,7 @@ I focus on:
 ---
 
 ## 🛠 Tech Stack
-<p>
-<img src="https://skillicons.dev/icons?i=laravel,php,react,nodejs,express,mysql,mongodb,js,html,css,tailwind,sass,bootstrap,git,github,docker,aws," />
-</p>
+
 
 ### 🚀 Frontend
 - React.js
